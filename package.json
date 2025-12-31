@@ -15,7 +15,7 @@
     "react-lab": "^0.10.0",
     "react-particles": "0.0.3",
     "react-particles-js": "^3.2.1",
-    "react-scripts": "3.4.1",
+    "react-scripts": "5.0.1",
     "react-typed": "^1.2.0"
   },
   "scripts": {
